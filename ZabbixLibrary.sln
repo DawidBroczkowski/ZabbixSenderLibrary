@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZabbixLibrary", "ZabbixLibrary\ZabbixLibrary.csproj", "{1411654E-10A7-45A0-813C-37FB6B078296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZabbixTest", "ZabbixTest\ZabbixTest.csproj", "{D23FBC41-CED1-4817-87B4-CF2E9BC5DCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1411654E-10A7-45A0-813C-37FB6B078296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1411654E-10A7-45A0-813C-37FB6B078296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1411654E-10A7-45A0-813C-37FB6B078296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1411654E-10A7-45A0-813C-37FB6B078296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23FBC41-CED1-4817-87B4-CF2E9BC5DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23FBC41-CED1-4817-87B4-CF2E9BC5DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23FBC41-CED1-4817-87B4-CF2E9BC5DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23FBC41-CED1-4817-87B4-CF2E9BC5DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88001CB6-FDD2-4F6D-8E49-3A227875642C}
+	EndGlobalSection
+EndGlobal
